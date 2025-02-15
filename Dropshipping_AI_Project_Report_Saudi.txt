@@ -1,0 +1,49 @@
+
+# AI-Powered Product Recommendation System for Dropshipping (Saudi Arabia)
+
+## 📌 Project Overview  
+This project is an **AI-driven recommendation system** for a **Dropshipping Store in Saudi Arabia**, utilizing **Machine Learning** to recommend products to customers based on their purchase history and customer similarity.
+
+## 🔧 Technologies Used  
+- **Python** (Pandas, NumPy, Scikit-Learn)  
+- **Streamlit** (for Web Application)  
+- **Collaborative Filtering Algorithm** (for recommendations)  
+- **Cosine Similarity** (for customer similarity analysis)  
+- **Data Visualization** (using Matplotlib & Seaborn)  
+
+## 📊 Project Steps  
+1. **Data Collection and Preprocessing**  
+   - Created a dataset of customers in Saudi cities (**Riyadh, Jeddah, Mecca, Medina, Dammam, etc.**)  
+   - Cleaned and preprocessed the data for analysis.  
+2. **Data Analysis and Visualization**  
+   - Identified top-selling products.  
+   - Analyzed customer purchase behaviors.  
+3. **Building the Recommendation Model**  
+   - Used **Collaborative Filtering** for product recommendations.  
+   - Computed **Cosine Similarity** between customers to find purchase patterns.  
+4. **Developing the Interactive Web App using Streamlit**  
+   - Created a **user-friendly web interface** for displaying recommendations.  
+   - Allowed users to input **Customer ID** and receive personalized product recommendations.  
+
+## 🚀 How to Run the Project  
+1. Install required dependencies:  
+   ```bash
+   pip install streamlit pandas numpy scikit-learn openpyxl
+   ```
+2. Download the project files (`Dropshipping_Recommendation_System_Saudi.xlsx` and `streamlit_recommendation_app.py`).
+3. Run the Streamlit app:  
+   ```bash
+   streamlit run streamlit_recommendation_app.py
+   ```
+4. Open your browser to **`http://localhost:8501/`** to interact with the recommendation system.  
+
+## 📂 Project Files  
+| File Name | Description |
+|-----------|------------|
+| `Dropshipping_Recommendation_System_Saudi.xlsx` | Dataset containing customers in Saudi Arabia, orders, and product recommendations |
+| `streamlit_recommendation_app.py` | Python script to run the interactive recommendation system |
+
+## 📬 Contact  
+For any questions, feel free to reach out:  
+📧 Email: [Your Email]  
+🔗 LinkedIn: [Your LinkedIn Profile]  
