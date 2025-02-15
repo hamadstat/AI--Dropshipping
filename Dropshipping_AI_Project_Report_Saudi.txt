@@ -43,7 +43,4 @@ This project is an **AI-driven recommendation system** for a **Dropshipping Stor
 | `Dropshipping_Recommendation_System_Saudi.xlsx` | Dataset containing customers in Saudi Arabia, orders, and product recommendations |
 | `streamlit_recommendation_app.py` | Python script to run the interactive recommendation system |
 
-## 📬 Contact  
-For any questions, feel free to reach out:  
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
+
