@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
-# تحميل البيانات
 @st.cache_data
 def load_data():
     products = pd.read_excel("Dropshipping_Recommendation_System_2024.xlsx", sheet_name="Products")
